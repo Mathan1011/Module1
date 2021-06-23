@@ -1,0 +1,4 @@
+92762161972eb4dba9ec03427dfd08ef
+
+https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=92762161972eb4dba9ec03427dfd08ef
+
